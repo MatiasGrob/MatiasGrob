@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you want to check my profile, go in the right side: Visit profile.
+If you want to check my profile, go to the right side: Visit profile.
 
 <!--
 **MatiasGrob/MatiasGrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
