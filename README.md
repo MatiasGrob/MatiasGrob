@@ -1,7 +1,18 @@
 ### Hi there 👋
 
-If you want to check my profile, go to the right side: Visit profile.
+Here is a shorter description of some of my projects:
 
+1. Financial Analysis of 2022:
+- Gathered financial data from Yahoo Finance using web scraping and API techniques.
+- Analyzed financial data using statistical techniques and visualization tools.
+- Developed skills in financial analysis and web scraping.
+
+2. Predicting Migration Trends:
+- Gathered and cleaned migration data from various sources.
+- Developed machine learning models using classification and regression techniques.
+- Made predictions for future migration trends.
+- Gained practical experience with machine learning models and data preprocessing.
+ 
 <!--
 **MatiasGrob/MatiasGrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
