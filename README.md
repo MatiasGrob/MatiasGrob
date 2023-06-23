@@ -1,4 +1,4 @@
-# MatiasGrob Projects
+# Projects
 
 Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of my projects that showcase my skills and interests. Below are some highlights:
 
