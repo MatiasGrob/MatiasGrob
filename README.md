@@ -16,7 +16,8 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 - Explored the relationship between demographic, economic, and environmental indicators and migration trends in a developed world.
 - Utilized machine learning models to predict migration class and net migration based on the provided dataset.
 
-   [Final Presentation PPT](https://github.com/MatiasGrob/Final-Bootcamp-Project/blob/main/Final%20Presentation%20PPT.pptx)
+[Final Presentation PPT](https://github.com/MatiasGrob/Final-Bootcamp-Project/raw/main/Final%20Presentation%20PPT.pptx)
+
 
 ## MicrovanCase (MBA Customer Analytics Course)
 
