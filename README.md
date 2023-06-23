@@ -22,7 +22,6 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 ## MicrovanCase (MBA Customer Analytics Course - Marketing Approach)
 
 - Conducted a case study on Grosse Pointe Associates' investigation into the potential market for "microvans."
-- Part of my MBA Customer Analytics Course at ESMT Berlin Business School.
 - Utilized customer segmentation and multivariate techniques to analyze survey data.
 - Provided insights and recommendations for effective targeting and understanding customer preferences.
 
