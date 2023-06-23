@@ -9,7 +9,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 - Conducted hypothesis tests to compare daily return data.
 - Analyzed various asset prices, including currencies, rates, commodities, and more.
 
-   [Tableau Presentation](https://public.tableau.com/app/profile/mat.as.grob/viz/MidProjectFinal_16729364906160/Story1?publish=yes)
+[Financial Markets 2022 Presentation](https://public.tableau.com/app/profile/mat.as.grob/viz/MidProjectFinal_16729364906160/Story1?publish=yes)
 
 ## Final-Bootcamp-Project: Predicting Migration Trends
 
@@ -26,6 +26,6 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 - Utilized customer segmentation and multivariate techniques to analyze survey data.
 - Provided insights and recommendations for effective targeting and understanding customer preferences.
 
-   [Presentation](https://github.com/MatiasGrob/MicrovanCase/blob/main/CUSA%20Microvan%20Case.pptx)
+[MicrovanCase Presentation](https://github.com/MatiasGrob/MicrovanCase/raw/main/CUSA%20Microvan%20Case.pptx)
 
 Feel free to explore each project for more details and code examples. If you have any questions or suggestions, don't hesitate to reach out!
