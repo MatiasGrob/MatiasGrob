@@ -19,7 +19,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
     [Final Presentation PPT](https://github.com/MatiasGrob/Final-Bootcamp-Project/raw/main/Final%20Presentation%20PPT.pptx)
 
 
-## MicrovanCase (MBA Customer Analytics Course - Marketing Aproach)
+## MicrovanCase (MBA Customer Analytics Course - Marketing Approach)
 
 - Conducted a case study on Grosse Pointe Associates' investigation into the potential market for "microvans."
 - Part of my MBA Customer Analytics Course at ESMT Berlin Business School.
