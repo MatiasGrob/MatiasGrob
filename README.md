@@ -2,11 +2,11 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 
 ## Financial Analysis of 2022
 
+- Explored the relationship between the 3 biggest stock markets in the US and key global assets.
+- Analyzed various asset prices, including currencies, rates, commodities, and more.
 - Gathered financial data from Yahoo Finance using web scraping and API techniques.
 - Conducted statistical analysis and visualization of financial data.
-- Explored the relationship between the 3 biggest stock markets in the US and key global assets.
 - Conducted hypothesis tests to compare daily return data.
-- Analyzed various asset prices, including currencies, rates, commodities, and more.
 
     [Financial Markets 2022 Presentation](https://public.tableau.com/app/profile/mat.as.grob/viz/MidProjectFinal_16729364906160/Story1?publish=yes)
 
