@@ -7,6 +7,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 - Gathered financial data from Yahoo Finance using web scraping and API techniques.
 - Conducted statistical analysis and visualization of financial data.
 - Conducted hypothesis tests to compare the performance of different assets and daily return data.
+- The analysis can be automated to incorporate current prices, ensuring real-time insights.
 
     [Financial Markets 2022 Presentation](https://public.tableau.com/app/profile/mat.as.grob/viz/MidProjectFinal_16729364906160/Story1?publish=yes)
 
