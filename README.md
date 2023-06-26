@@ -1,6 +1,6 @@
 Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of my projects that showcase my skills and interests. Below are some highlights:
 
-## Financial Analysis of 2022
+## Mid-Project: Financial Analysis of 2022
 
 - Explored the relationship between the three largest stock markets in the US and selected international markets with different key assets, including currencies, rates, commodities, and more.
 - Gathered financial data from Yahoo Finance using web scraping and API techniques.
