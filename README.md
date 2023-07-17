@@ -23,7 +23,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
     [Jupyter Notebook](https://github.com/MatiasGrob/Final-Bootcamp-Project)
 
 
-## MicrovanCase (MBA Customer Analytics Course - Marketing Approach)
+## MicrovanCase (MBA Customer Analytics Course)
 
 - Conducted a case study on Grosse Pointe Associates' investigation into the potential market for "microvans."
 - Utilized customer segmentation and multivariate techniques to analyze survey data.
@@ -33,7 +33,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
   
     [Jupyter Notebook](https://github.com/MatiasGrob/MicrovanCase/blob/main/MicrovanCase.ipynb)
 
-## Market Research Report
+## Market Research Report - MS Teams (MBA Marketing and Sales Course)
 
 - Conducted a market research report on MS Teams using our own survey data from 111 participants.
 - Analyzed user demographics, preferences, satisfaction levels, and factors influencing MS Teams usage.
