@@ -27,7 +27,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 
     [MicrovanCase Presentation](https://github.com/MatiasGrob/MicrovanCase/raw/main/CUSA%20Microvan%20Case.pptx)
 
-## MS Teams Market Research Report
+## Market Research Report
 
 - Conducted a market research report on MS Teams using our own survey data from 111 participants.
 - Analyzed user demographics, preferences, satisfaction levels, and factors influencing MS Teams usage.
