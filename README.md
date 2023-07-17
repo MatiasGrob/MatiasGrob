@@ -9,6 +9,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 - The analysis can be automated to incorporate current prices, ensuring real-time insights.
 
     [Financial Markets 2022 Presentation](https://public.tableau.com/app/profile/mat.as.grob/viz/MidProjectFinal_16729364906160/Story1?publish=yes)
+    [Jupyter Notebook](https://github.com/MatiasGrob/Mid-Project)
 
 ## Final-Bootcamp-Project: Predicting Migration Trends
 
@@ -17,6 +18,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 - Gathered the dataset by performing web scraping from the World Bank data.
 
     [Final Presentation PPT](https://github.com/MatiasGrob/Final-Bootcamp-Project/raw/main/Final%20Presentation%20PPT.pptx)
+    [Jupyter Notebook](https://github.com/MatiasGrob/Final-Bootcamp-Project)
 
 
 ## MicrovanCase (MBA Customer Analytics Course - Marketing Approach)
@@ -26,6 +28,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 - Provided insights and recommendations for effective targeting and understanding customer preferences.
 
     [MicrovanCase Presentation](https://github.com/MatiasGrob/MicrovanCase/raw/main/CUSA%20Microvan%20Case.pptx)
+    [Jupyter Notebook](https://github.com/MatiasGrob/MicrovanCase/blob/main/MicrovanCase.ipynb)
 
 ## Market Research Report
 
