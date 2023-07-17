@@ -34,6 +34,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 - Utilized techniques such as Factor Analysis, PCA (Principal Component Analysis), and cluster analysis to gain insights from the data.
 
 [PDF Report](https://github.com/MatiasGrob/Marketing-Sales/blob/main/MS%20Teams%20Market%20Research%20Report.pdf)
+
 [Jupyter Notebook](https://github.com/MatiasGrob/Marketing-Sales/blob/main/Market%20Research%20Report%20-%20ESMT%20Berlin.ipynb)
 
 
