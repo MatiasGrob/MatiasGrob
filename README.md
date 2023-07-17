@@ -27,4 +27,15 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 
     [MicrovanCase Presentation](https://github.com/MatiasGrob/MicrovanCase/raw/main/CUSA%20Microvan%20Case.pptx)
 
+## Group Market Research Assignment: MS Teams Market Research Report
+
+-Conducted a market research report on MS Teams using our own survey data from 111 participants.
+-Analyzed user demographics, preferences, satisfaction levels, and factors influencing MS Teams usage.
+-Utilized techniques such as Factor Analysis, PCA (Principal Component Analysis), and cluster analysis to gain insights from the data.
+-Provided valuable insights into the market landscape and user preferences.
+-The report can be accessed through the following links:
+PDF Report
+Jupyter Notebook
+
+
 Feel free to explore each project for more details and code examples. If you have any questions or suggestions, don't hesitate to reach out!
