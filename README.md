@@ -33,7 +33,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
   
     [Jupyter Notebook](https://github.com/MatiasGrob/MicrovanCase/blob/main/MicrovanCase.ipynb)
 
-## Market Research Report - MS Teams (MBA Marketing and Sales Course)
+## Market Research Report - MS Teams (MBA Marketing & Sales Course)
 
 - Conducted a market research report on MS Teams using our own survey data from 111 participants.
 - Analyzed user demographics, preferences, satisfaction levels, and factors influencing MS Teams usage.
