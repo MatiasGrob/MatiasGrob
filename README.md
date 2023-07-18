@@ -1,6 +1,6 @@
 Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of my projects that showcase my skills and interests. Below are some highlights:
 
-## Mid-Project: Financial Analysis of 2022
+## Mid-Bootcamp Project: Financial Analysis of 2022
 
 - Explored the relationship between the three largest stock markets in the US and selected international markets with different key assets, including currencies, rates, commodities, and more.
 - Gathered financial data from Yahoo Finance using web scraping and API techniques.
@@ -12,7 +12,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
   
     [Jupyter Notebook](https://github.com/MatiasGrob/Mid-Project)
 
-## Final-Bootcamp-Project: Predicting Migration Trends
+## Final-Bootcamp Project: Predicting Migration Trends
 
 - Explored the relationship between demographic, economic, and environmental indicators and migration trends in a developed world.
 - Utilized machine learning models to predict migration class and net migration.
