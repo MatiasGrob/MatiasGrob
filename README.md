@@ -43,6 +43,16 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 
    [Jupyter Notebook](https://github.com/MatiasGrob/Marketing-Sales/blob/main/Market%20Research%20Report%20-%20ESMT%20Berlin.ipynb)
 
+## Companions Breweries Analysis (MBA - Data Analysis Course)
+
+- Analyzed data from Companion's Breweries to develop a prediction equation for revenue in the following year.
+- Evaluated potential site acquisitions, Site A and Site B, based on predictive modeling and historical data.
+- Provided recommendations for site selection and considerations for future data collection.
+
+   [PDF Report](https://github.com/MatiasGrob/Various-ESMT/blob/main/Final%20Project.pdf)
+
+   [Jupyter Notebook](https://github.com/MatiasGrob/Various-ESMT/blob/main/Companions%20Breweries%20Analysis.ipynb)
+
 
 
 Feel free to explore each project for more details and code examples. If you have any questions or suggestions, don't hesitate to reach out!
