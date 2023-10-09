@@ -49,10 +49,11 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 - Evaluated potential site acquisitions, Site A and Site B, based on predictive modeling and historical data.
 - Provided recommendations for site selection and considerations for future data collection.
 
+   [Assignment Instructions (PDF)](https://github.com/MatiasGrob/Various-ESMT/blob/main/DDD_Group%20Project.pdf)
+
    [PDF Report](https://github.com/MatiasGrob/Various-ESMT/blob/main/Final%20Project.pdf)
 
    [Jupyter Notebook](https://github.com/MatiasGrob/Various-ESMT/blob/main/Companions%20Breweries%20Analysis.ipynb)
-
 
 
 Feel free to explore each project for more details and code examples. If you have any questions or suggestions, don't hesitate to reach out!
