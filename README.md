@@ -8,7 +8,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 - Conducted hypothesis tests to compare the performance of different assets and daily return data.
 - The analysis can be automated to incorporate current prices, ensuring real-time insights.
 
-    [Financial Markets 2022 Presentation](https://public.tableau.com/app/profile/mat.as.grob/viz/MidProjectFinal_16729364906160/Story1?publish=yes)
+    [Financial Markets 2022 Presentation in Tableau](https://public.tableau.com/app/profile/mat.as.grob/viz/MidProjectFinal_16729364906160/Story1?publish=yes)
   
     [Jupyter Notebook](https://github.com/MatiasGrob/Mid-Project)
 
