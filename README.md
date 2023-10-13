@@ -45,7 +45,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 
 ## Companions Breweries Analysis (MBA - Data Analysis Course)
 
-- Analyzed data from Companion's Breweries to develop a prediction equation for revenue in the following year.
+- Analyzed data from Companion's Breweries to develop a prediction equation through multiple regression for revenue in the following year.
 - Evaluated potential site acquisitions, Site A and Site B, based on predictive modeling and historical data.
 - Provided recommendations for site selection and considerations for future data collection.
 
