@@ -15,7 +15,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 ## Final-Bootcamp Project: Predicting Migration Trends
 
 - Explored the relationship between demographic, economic, and environmental indicators and migration trends in a developed world.
-- Utilized machine learning models to predict migration class and net migration.
+- Utilized machine learning models to predict migration class and net migration (Classification and Regression models /Supervised Learning).
 - Gathered the dataset by performing web scraping from the World Bank data.
 
     [Final Presentation PPT](https://github.com/MatiasGrob/Final-Bootcamp-Project/raw/main/Final%20Presentation%20PPT.pptx)
