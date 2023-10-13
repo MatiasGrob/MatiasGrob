@@ -26,7 +26,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 ## MicrovanCase (MBA - Customer Analytics Course)
 
 - Conducted a case study on Grosse Pointe Associates' investigation into the potential market for "microvans."
-- Utilized customer segmentation and multivariate techniques to analyze survey data.
+- Utilized customer segmentation and multivariate techniques (Factor Analysis, PCA, Cluster Analysis, Regression) to analyze survey data.
 - Provided insights and recommendations for effective targeting and understanding customer preferences.
 
     [MicrovanCase Presentation](https://github.com/MatiasGrob/MicrovanCase/raw/main/CUSA%20Microvan%20Case.pptx)
