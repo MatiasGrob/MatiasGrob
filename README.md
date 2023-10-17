@@ -43,7 +43,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 
    [Jupyter Notebook](https://github.com/MatiasGrob/Marketing-Sales/blob/main/Market%20Research%20Report%20-%20ESMT%20Berlin.ipynb)
 
-## Companions Breweries Analysis (MBA - Data Analysis Course)
+## Companions Breweries Analysis (MBA - Data Driven Decisions Course)
 
 - Analyzed data from Companion's Breweries to develop a prediction equation through multiple regression for revenue in the following year.
 - Evaluated potential site acquisitions, Site A and Site B, based on predictive modeling and historical data.
