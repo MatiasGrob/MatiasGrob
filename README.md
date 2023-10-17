@@ -55,5 +55,28 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 
    [Jupyter Notebook](https://github.com/MatiasGrob/Various-ESMT/blob/main/Companions%20Breweries%20Analysis.ipynb)
 
+## Resource Allocation Project: Autopower Shipping and A Sustainability Question
+
+### Autopower Shipping
+
+- Minimizing the total cost of transporting motors from harbors to assembly plants.
+- Determining how many motors to send from each harbor to each plant.
+- Analyzing unit transportation costs and optimizing the transportation plan.
+
+  [Jupyter Notebook - Autopower Shipping](https://github.com/MatiasGrob/Various-ESMT/blob/main/Resource%20Allocation%20Case%201.ipynb)
+
+  [Instructions (PDF) - Autopower Shipping](https://github.com/MatiasGrob/Various-ESMT/blob/main/Autopower%20case.pdf)
+
+### A Sustainability Question
+
+- Minimizing pollution while meeting emission reduction standards.
+- Optimizing the implementation levels of pollution-reduction methods.
+- Evaluating the cost of implementing each measure and its impact on pollution.
+
+  [Jupyter Notebook - A Sustainability Question](https://github.com/MatiasGrob/Various-ESMT/blob/main/Resource%20Allocation%20Case%202.ipynb)
+
+  [Instructions (PDF) - A Sustainability Question](https://github.com/MatiasGrob/Various-ESMT/blob/main/Optimization%20Case.pdf)
+
+
 
 Feel free to explore each project for more details and code examples. If you have any questions or suggestions, don't hesitate to reach out!
