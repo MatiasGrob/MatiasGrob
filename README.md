@@ -73,9 +73,9 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 - Optimizing the implementation levels of pollution-reduction methods.
 - Evaluating the cost of implementing each measure and its impact on pollution.
 
-  [Jupyter Notebook - A Sustainability Question](https://github.com/MatiasGrob/Various-ESMT/blob/main/Resource%20Allocation%20Case%202.ipynb)
+  [Jupyter Notebook - A Sustainability Case](https://github.com/MatiasGrob/Various-ESMT/blob/main/Resource%20Allocation%20Case%202.ipynb)
 
-  [Instructions (PDF) - A Sustainability Question](https://github.com/MatiasGrob/Various-ESMT/blob/main/Optimization%20Case.pdf)
+  [Instructions (PDF) - A Sustainability Case](https://github.com/MatiasGrob/Various-ESMT/blob/main/Optimization%20Case.pdf)
 
 
 
