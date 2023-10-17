@@ -55,7 +55,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 
    [Jupyter Notebook](https://github.com/MatiasGrob/Various-ESMT/blob/main/Companions%20Breweries%20Analysis.ipynb)
 
-## Resource Allocation Project: Autopower Shipping and A Sustainability Question
+## Resource Allocation Project: Autopower Shipping and a Sustainability Case
 
 ### Autopower Shipping
 
@@ -67,7 +67,7 @@ Hi there! 👋 Welcome to my GitHub repository. Here you'll find a collection of
 
   [Instructions (PDF) - Autopower Shipping](https://github.com/MatiasGrob/Various-ESMT/blob/main/Autopower%20case.pdf)
 
-### A Sustainability Question
+### A Sustainability Case
 
 - Minimizing pollution while meeting emission reduction standards.
 - Optimizing the implementation levels of pollution-reduction methods.
